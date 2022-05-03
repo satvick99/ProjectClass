@@ -31,6 +31,22 @@ public class Class1 {
 
 	}
 	
+	private void method11() {
+		System.out.println("11");
+
+	}
+	
+	private void method12() {
+		System.out.println("12");
+
+	}
+	
+	private void method13() {
+		System.out.println("13");
+
+	}
+	
+
 	private void method21() {
 		System.out.println("21");
 
@@ -45,5 +61,9 @@ public class Class1 {
 		System.out.println("23");
 
 	}
+
+
+	
+
 
 }
