@@ -47,4 +47,23 @@ public class Class1 {
 	}
 	
 
+	private void method21() {
+		System.out.println("21");
+
+	}
+	
+	private void method22() {
+		System.out.println("22");
+
+	}
+	
+	private void method23() {
+		System.out.println("23");
+
+	}
+
+
+	
+
+
 }
